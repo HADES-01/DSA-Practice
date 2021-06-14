@@ -1,0 +1,18 @@
+01. Implement Queue using array
+02. Operations on Queue
+03. Implement Queue using Linked List
+04. Queue Reversal
+05. Queue using two Stacks
+06. Stack using two queues
+07. Generate Binary Numbers
+08. Reverse First K elements of Queue
+09. Circular tour
+
+DEQUEUE
+
+01. Deque Implementations
+02. Maximum of all subarrays of size k
+03. Dequeue Traversal
+04. Rotate Deque By K
+05. Insertion in deque
+06. Deque deletion
